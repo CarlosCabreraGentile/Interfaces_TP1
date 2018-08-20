@@ -1,0 +1,10 @@
+let ctx = document.getElementById("canvas").getContext("2d");
+ctx.fillStyle = "#63ff00";
+ctx.fillRect(75, 75, 250, 250);
+// ctx.arc(80, 100, 50, 10, 2 * Math.PI, false);
+// ctx.arc(160, 160, 100, 30, 2 * Math.PI, false);
+// ctx.arc(200, 160, 20, 5, 2 * Math.PI, true);
+// ctx.lineWidth = 10 ;
+// ctx.strokeStyle = 'rgba(77, 77, 255,0.5)';
+// ctx.lineCap = 'round';
+// ctx.stroke();
