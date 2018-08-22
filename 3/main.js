@@ -14,6 +14,9 @@
          g = Math.round((y/height) * 255);
          b = Math.round((y/height) * 255);
      }
+     r = 0;
+     g = 0;
+     b = 0;
  }
 
  function setPixel(imageData, x, y, r, g, b, a) {
